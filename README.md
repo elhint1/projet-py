@@ -31,4 +31,4 @@ Ce projet est un Système de Gestion des Employés développé en utilisant Pyth
 - **Masquer/Afficher :** Basculez la visibilité du formulaire de saisie.
 
 ## Screenshots
-```<a href="https://ibb.co/HY3fRGx"><img src="https://i.ibb.co/FJCLc80/Capture-d-cran-2024-03-04-005052.png" alt="Capture-d-cran-2024-03-04-005052" border="0" /></a>```
+<a href="https://ibb.co/HY3fRGx"><img src="https://i.ibb.co/FJCLc80/Capture-d-cran-2024-03-04-005052.png" alt="Capture-d-cran-2024-03-04-005052" border="0" /></a>
