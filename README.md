@@ -16,7 +16,7 @@ Ce projet est un Système de Gestion des Employés développé en utilisant Pyth
 
 ## Installation
 1. Clonez le dépôt sur votre machine locale :
-   ```git clone [https://github.com/elhint1/projet-py.git```
+   ```git clone https://github.com/elhint1/projet-py.git```
 2. Accédez au répertoire du projet :
      ```cd projet-py```
 
