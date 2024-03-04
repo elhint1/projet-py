@@ -24,11 +24,11 @@ Ce projet est un Système de Gestion des Employés développé en utilisant Pyth
 1. Lancez l'application :
      ```python main.py```
 2. Utilisez les boutons fournis dans l'interface pour effectuer différentes actions :
-- **Ajouter des Détails :** Ajoutez de nouvelles informations sur l'employé.
-- **Mettre à Jour les Détails :** Modifiez les enregistrements des employés existants.
-- **Supprimer des Détails :** Supprimez un employé du système.
-- **Effacer les Détails :** Effacez tous les champs de saisie.
-- **Masquer/Afficher :** Basculez la visibilité du formulaire de saisie.
+   - **Ajouter des Détails :** Ajoutez de nouvelles informations sur l'employé.
+   - **Mettre à Jour les Détails :** Modifiez les enregistrements des employés existants.
+   - **Supprimer des Détails :** Supprimez un employé du système.
+   - **Effacer les Détails :** Effacez tous les champs de saisie.
+   - **Masquer/Afficher :** Basculez la visibilité du formulaire de saisie.
 
 ## Screenshots
 <a href="https://ibb.co/HY3fRGx"><img src="https://i.ibb.co/FJCLc80/Capture-d-cran-2024-03-04-005052.png" alt="Capture-d-cran-2024-03-04-005052" border="0" /></a>
